@@ -1,0 +1,27 @@
+body {
+  font-family: 'Noto Sans KR', sans-serif;
+  font-size: 16px;
+  color:#000;
+}
+a{
+  color:#333;
+  text-decoration:none;
+}
+.mb-2{
+  margin-bottom:30px;
+}
+.text-right{
+  text-align:right;
+}
+.write{
+   padding:10px 30px;
+   border:1px solid #ddd;
+   border-top-left-radius:8px;
+   border-top-right-radius:8px;
+   font-size:18px;
+   font-weight:bold;
+}
+
+.wirteBox{
+  margin-top:100px;
+}
