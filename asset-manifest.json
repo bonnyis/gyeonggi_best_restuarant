@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gyeonggi_best_restuarant/static/css/main.6eb07f4c.css",
+    "main.js": "/gyeonggi_best_restuarant/static/js/main.18341aa9.js",
+    "index.html": "/gyeonggi_best_restuarant/index.html",
+    "main.6eb07f4c.css.map": "/gyeonggi_best_restuarant/static/css/main.6eb07f4c.css.map",
+    "main.18341aa9.js.map": "/gyeonggi_best_restuarant/static/js/main.18341aa9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6eb07f4c.css",
+    "static/js/main.18341aa9.js"
+  ]
+}
